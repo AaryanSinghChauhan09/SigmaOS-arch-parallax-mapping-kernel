@@ -3,7 +3,7 @@ name = "SigmaOS-arch-parallax-mapping-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-parallax-mapping-kernel component"
+description = "SigmaOS SigmaOS-arch-parallax-mapping-kernel component"
 upstream = []
 
 [contract]
